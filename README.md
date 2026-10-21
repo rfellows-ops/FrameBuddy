@@ -107,7 +107,9 @@ you have.
   - **Give a seller reputation** (opens their warframe.market profile).
 - **My Orders:** all your warframe.market orders, with the cheapest other
   seller next to each so you can see when you've been undercut. Change the
-  price or quantity, hide or show an order, or remove it.
+  price or quantity, hide or show an order (or all of them at once), or
+  remove it. When you sell something in a trade, FrameBuddy marks the order
+  sold for you, including sets once every part has been traded.
 - **Wishlist:** keep a list of things you want to buy.
   - **Group items by goal**, such as a weapon, a Warframe or a mod build,
     and show one goal at a time with its remaining cost. A mod you need for
