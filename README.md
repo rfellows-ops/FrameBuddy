@@ -72,10 +72,12 @@ you have.
 ### Planning
 
 - **Planner.** Pick any Warframe, weapon or other craftable and see everything
-  it takes to build, down to the last resource, checked against what you
-  already own. You get a "still need" shopping list showing where to get each
-  piece: relic drops, market prices or vendors. Track goals and watch them
-  progress as your inventory changes.
+  it takes to build, down to the last resource for every part, checked
+  against what you already own. You get a "still need" shopping list showing
+  where to get each piece: relic drops, mission drops, market prices,
+  vendors, and the wiki's recommended farming spots for common resources.
+  Prime items show whether they're currently vaulted. Track goals and watch
+  them progress as your inventory changes.
 - **Arbitration.** The upcoming Arbitration rotation, days ahead, in your
   local time. Filter by reward tier to see only the ones worth logging in for.
 
@@ -94,8 +96,18 @@ you have.
 
 ### Market (warframe.market)
 
-- **Market Browser:** live buy and sell orders for any item. Pop it out into
-  its own window to keep it open next to the rest of the app.
+- **Market Browser:** live buy and sell orders for any item, with each
+  seller's reputation. Jump from a part to its set and back. Pop it out into
+  its own window to keep it open next to the rest of the app. Once you sign
+  in to warframe.market you can also:
+  - **Sell** an item: pick the price, quantity and rank, check the summary,
+    then post.
+  - **Set your status** to Online in game, Online or Invisible. FrameBuddy
+    keeps it while it's open, so buyers can find you.
+  - **Give a seller reputation** (opens their warframe.market profile).
+- **My Orders:** all your warframe.market orders, with the cheapest other
+  seller next to each so you can see when you've been undercut. Change the
+  price or quantity, hide or show an order, or remove it.
 - **Wishlist:** keep a list of things you want to buy.
   - **Group items by goal**, such as a weapon, a Warframe or a mod build,
     and show one goal at a time with its remaining cost. A mod you need for
@@ -162,7 +174,7 @@ computer and doesn't upload it anywhere. It only goes online for:
 | Service | Used for |
 |---|---|
 | warframe.market | Market pages, the Wishlist and Planner prices. Signing in is optional; your login goes only to warframe.market and is stored securely on your PC. |
-| browse.wf | The Arbitration schedule |
+| browse.wf | The Arbitration schedule, and crafting recipes for the Planner (downloaded about once a week) |
 | GitHub | Checking for FrameBuddy updates |
 | Warframe wiki / Google | Only when you choose "Open in wiki" or "Keep or sell?" |
 
