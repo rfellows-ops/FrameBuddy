@@ -144,7 +144,7 @@ you have.
 
 - **Easy to find your way.** The menu is grouped by what you're doing (Home,
   Progress, Inventory, Crafting, Trading, Activities). Press **Ctrl+K** to
-  jump to any page by name, right-click a page to pin it to the top, and fold
+  jump to any page by name, click the ☆ next to a page to pin it to the top, and fold
   away sections you don't use.
 - **Keeps itself up to date.** Whenever AlecaFrame syncs, FrameBuddy refreshes
   in the background. There's no loading screen, and you stay where you were.
