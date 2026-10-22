@@ -52,11 +52,13 @@ you have.
     they don't skew the count.
   - Shows **the game's own tally** next to FrameBuddy's, so you can tell at
     a glance that the numbers agree.
-- **Mastered.** What you've mastered and what's still to go, for Warframes,
-  weapons, companions and Archwing.
+- **Mastery.** What you've mastered and what's still to go, for Warframes,
+  weapons, companions and Archwing, one tab each.
 - **Collection.** Every Warframe and weapon in the game, sorted by how close
   you are to building it.
 - **Intrinsics.** Your Railjack and Drifter intrinsic ranks.
+- **Blessings.** Relay blessings and boosters with a countdown. A blessing
+  shows up seconds after you receive one and lasts 3 hours.
 
 ### Crafting & Foundry
 
@@ -132,21 +134,24 @@ you have.
     part of a set.
   - Add items from the Wishlist page, by right-clicking almost anything in
     FrameBuddy, or straight from a Planner shopping list.
-- **Sell Order Ranges:** the price range you could realistically list an item
-  at right now.
-- **Average Prices:** typical prices for mods, arcanes and sets, to help you
-  decide whether to buy or farm.
+- **Prices:** two tabs. *Live sellers* shows the price range you could
+  realistically list an item at right now; *Recent trades* shows typical
+  prices for mods, arcanes and sets, to help you decide whether to buy or farm.
 - **Market History:** 90 days of trading, ranked by what actually sells, with
   a price chart for each item.
 
 ### Everywhere
 
+- **Easy to find your way.** The menu is grouped by what you're doing (Home,
+  Progress, Inventory, Crafting, Trading, Activities). Press **Ctrl+K** to
+  jump to any page by name, right-click a page to pin it to the top, and fold
+  away sections you don't use.
 - **Keeps itself up to date.** Whenever AlecaFrame syncs, FrameBuddy refreshes
   in the background. There's no loading screen, and you stay where you were.
 - **Search, sort and filter** every list.
 - **Right-click any item** to look it up on the Warframe wiki or in the Market
   Browser, add it to your Wishlist, or copy it.
-- **Documentation:** built-in guides (getting started, Archon Hunts,
+- **Help:** built-in guides (getting started, Archon Hunts,
   syndicates, farming, builds) plus your own notes.
 - **Dark and Light themes.**
 
