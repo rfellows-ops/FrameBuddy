@@ -84,7 +84,8 @@ you have.
 ### Inventory
 
 - **Dashboard and Player Summary:** credits, platinum, endo, Mastery Rank and
-  trades left today.
+  trades left today, plus your mastery points and how many more you need for
+  the next two ranks.
 - **Relics:** every relic you own and everything it can drop, with rarity and
   chance.
 - **Prime parts:** which item each part belongs to and whether you've already
