@@ -92,7 +92,10 @@ you have.
   chance.
 - **Prime parts:** which item each part belongs to and whether you've already
   mastered it, so spare parts you can sell stand out.
-- **Mods:** ranked and unranked, with type, rarity and max rank.
+- **Mods:** every mod in the game with its stats, so you can search for
+  "critical chance" or "ability range" and filter by type, polarity, rarity
+  or whether you own it. Hover a mod to see its stats at every rank and where
+  it drops. Your ranked and unranked mods have their own tabs.
 - **Resources:** with type (resource, gem, plant, fish, captura…) and whether
   each can be traded.
 - **Sentinels and pets.**
