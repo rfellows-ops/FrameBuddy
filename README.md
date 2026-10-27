@@ -42,7 +42,9 @@ you have.
   are left before the **Steel Path** unlocks. Sort by "closest to done" to
   find the quickest wins, or group by mission type ("how many Defense nodes
   are left?"). Each remaining node shows its mission type, faction and enemy
-  level.
+  level, and whether it's **Available** (a node or junction linked to it is
+  cleared, so you can play it now) or **Locked**. Set Nodes to **Available**
+  to list only what you can run next, normal or Steel Path.
   - **Updates as you play.** When you finish a mission, it appears within
     seconds in **purple** ("cleared this session"). It turns green once
     AlecaFrame catches up.
