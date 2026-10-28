@@ -139,6 +139,8 @@ you have.
     part of a set.
   - Add items from the Wishlist page, by right-clicking almost anything in
     FrameBuddy, or straight from a Planner shopping list.
+  - Each Warframe account has its own wishlist. FrameBuddy shows the one for
+    the account you're signed in to in the game.
 - **Prices:** two tabs. *Live sellers* shows the price range you could
   realistically list an item at right now; *Recent trades* shows typical
   prices for mods, arcanes and sets, to help you decide whether to buy or farm.
