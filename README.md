@@ -84,6 +84,19 @@ you have.
   them progress as your inventory changes.
 - **Arbitration.** The upcoming Arbitration rotation, days ahead, in your
   local time. Filter by reward tier to see only the ones worth logging in for.
+- **World.** Live fissures (filter by Normal, Steel Path or Railjack and by
+  mission type), the open-world clocks (Plains of Eidolon, Orb Vallis,
+  Cambion Drift, Zariman, Duviri), today's Sortie, the Archon Hunt, Baro and
+  the current Arbitration.
+- **Alerts.** Get a Windows notification and/or a sound for what you care
+  about: Void Cascade or any other fissures, Sorties, Archon Hunts, Baro,
+  Arbitrations of the tiers you pick, a clock changing (e.g. "Night starts in
+  5m"), or something finishing in the Foundry or becoming ready to build.
+  Choose them in **Settings → Alerts**, along with your own sound, "Send a
+  test alert", holding alerts until you extract, and **Start with Windows**.
+  - FrameBuddy keeps running in the tray when you close its window, so alerts
+    still arrive. Double-click the tray icon to open it; right-click → Exit to
+    quit.
 
 ### Inventory
 
@@ -190,6 +203,7 @@ computer and doesn't upload it anywhere. It only goes online for:
 |---|---|
 | warframe.market | Market pages, the Wishlist and Planner prices. Signing in is optional; your login goes only to warframe.market and is stored securely on your PC. |
 | browse.wf | The Arbitration schedule, and crafting recipes for the Planner (downloaded about once a week) |
+| warframestat.us | The live world state for the World page and alerts: fissures, clocks, Sortie, Archon Hunt, Baro (checked once a minute) |
 | GitHub | Checking for FrameBuddy updates |
 | Warframe wiki / Google | Only when you choose "Open in wiki" or "Keep or sell?" |
 
