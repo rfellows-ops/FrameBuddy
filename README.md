@@ -94,6 +94,9 @@ you have.
   5m"), or something finishing in the Foundry or becoming ready to build.
   Choose them in **Settings → Alerts**, along with your own sound, "Send a
   test alert", holding alerts until you extract, and **Start with Windows**.
+  - Missed one? **World → Alert history** lists every alert from the last 24
+    hours and whether it was shown, held while you were in a mission, or
+    raised with notifications off. Tick **Missed only** to see just those.
   - FrameBuddy keeps running in the tray when you close its window, so alerts
     still arrive. Double-click the tray icon to open it; right-click → Exit to
     quit.
