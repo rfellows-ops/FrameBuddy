@@ -157,6 +157,24 @@ you have.
     FrameBuddy, or straight from a Planner shopping list.
   - Each Warframe account has its own wishlist. FrameBuddy shows the one for
     the account you're signed in to in the game.
+- **Rivens:** everything riven, in four tabs.
+  - **My rivens:** each of your rivens with its stats as the game shows
+    them (and at max rank), how well each stat rolled, a grade from S to F,
+    an overall **ROLL** grade and a **USEFUL** grade (are these good stats
+    for the weapon, is the curse harmless?). Choose what counts as useful in
+    **Settings → Rivens**. Veiled rivens show how far along their challenge
+    is.
+  - **Find similar** on a riven shows what comparable ones sell for;
+    **Sell on warframe.market** lists it (signed in), with a summary before
+    anything is posted and an option to post it hidden first.
+  - **Grader:** thinking of buying one? Type in what its card says and get
+    the same grades.
+  - **Search:** riven auctions for a weapon and the stats you want, each one
+    graded, with the cheapest and typical price and a ready-made whisper.
+  - **My auctions:** change the price or note, hide or show, and close an
+    auction once it's sold.
+  - Since 22 Oct 2026 every weapon has the same riven disposition, so the
+    grades don't depend on the weapon.
 - **Prices:** two tabs. *Live sellers* shows the price range you could
   realistically list an item at right now; *Recent trades* shows typical
   prices for mods, arcanes and sets, to help you decide whether to buy or farm.
